@@ -4,14 +4,14 @@ identification division.
 
 program-id. HolaMundo.
 
-enviroment division. 
+environment division. 
 
 data division.
 
 procedure division. 
 
   display "Hola Mundo".
-  
+
   stop "pausa".
 
 stop run.
